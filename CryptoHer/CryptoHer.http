@@ -1,0 +1,6 @@
+@CryptoHer_HostAddress = http://localhost:5002
+
+GET {{CryptoHer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
